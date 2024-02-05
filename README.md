@@ -16,5 +16,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emiliarocha&show_icons=true&locale=en&layout=compact" alt="emiliarocha" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emiliarocha&show_icons=true&locale=en" alt="emiliarocha" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emiliarocha&" alt="emiliarocha" /></p>
