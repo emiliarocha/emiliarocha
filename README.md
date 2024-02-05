@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emiliarocha&label=Profile%20views&color=0e75b6&style=flat" alt="emiliarocha" /> </p>
 
-- 📫 Contato: **e.roch@outlook.com.br**
+- 📫 Contato: e.roch@outlook.com.br
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
